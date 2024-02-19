@@ -1,7 +1,7 @@
 const ShareMealPage = () => {
   return (
     <main>
-      <h1>Share Meal</h1>
+      <h1 style={{ color: 'white', textAlign: 'center' }}>Share Meal</h1>
     </main>
   );
 }
