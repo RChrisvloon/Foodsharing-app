@@ -1,4 +1,4 @@
-const MealsSlugPage = () => {
+const MealSlugPage = () => {
 	return (
 		<main>
 			<h1>Meals Slug Page</h1>
@@ -6,4 +6,4 @@ const MealsSlugPage = () => {
 	);
 };
 
-export default MealsSlugPage;
+export default MealSlugPage;
